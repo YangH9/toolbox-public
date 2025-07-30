@@ -18,6 +18,8 @@
 | ![](./share045.jpg) | ![](./share046.jpg) | ![](./share047.jpg) | ![](./share048.jpg) |
 | ![](./share049.jpg) | ![](./share050.jpg) | ![](./share051.jpg) | ![](./share052.jpg) |
 | ![](./share053.jpg) | ![](./share054.jpg) | ![](./share055.jpg) | ![](./share056.jpg) |
+| ![](./share057.jpg) | ![](./share058.jpg) | ![](./share059.jpg) | ![](./share060.jpg) |
+| ![](./share061.jpg) | ![](./share062.jpg) | ![](./share063.jpg) | ![](./share064.jpg) |
 
 <!-- https://wxmini-cdn.jj5agame.com/clover/share/share001.jpg -->
 
