@@ -6,7 +6,8 @@
 | --------------------- | ---------------------- |
 | ![](./icon.png)       |                        |
 | ![](./logo.png)       | ![](./logo-1.png)      |
-| ![](./bg.jpg)         |                        |
+| ![](./logo-2.png)     | -                      |
+| ![](./bg.jpg)         | ![](./bg-1.jpg)        |
 | ![](./copyright.png)  | ![](./copyright-1.png) |
 | ![](./logo-flash.png) | ![](./game-start.png)  |
 
