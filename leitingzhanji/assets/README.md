@@ -2,15 +2,15 @@
 
 [返回](../)
 
-|                       |                        |
-| --------------------- | ---------------------- |
-| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/icon-基础.png)       |    ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/icon-战队.png)                    |
+|                                                                                           |                                                                                           |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/icon-默认.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/icon-战队.png) |
 | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/icon-三体联动.png)
-| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-基础.png)       | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-集结.png)      |
-| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-三体联动.png)     | -                      |
-| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/bg-默认.jpg)         | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/bg-三体联动.jpg)        |
-| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/copyright-原始.png)  | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/copyright-集结.png) |
-| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-flash.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/game-start.png)  |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-基础.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-集结.png) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-三体联动.png) | - |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/bg-默认.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/bg-三体联动.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/copyright-原始.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/copyright-集结.png) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/logo-flash.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/game-start.png) |
 
 |                         |                            |                            |                        |
 | ----------------------- | -------------------------- | -------------------------- | ---------------------- |
