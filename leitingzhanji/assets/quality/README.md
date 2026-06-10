@@ -4,12 +4,12 @@
 
 |                  |                 |
 | ---------------- | --------------- |
-| ![](./super.png) | ![](./ares.png) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/super.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/ares.png) |
 
 |                      |                      |                      |                      |                      |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| ![](./quality-1.png) | ![](./quality-2.png) | ![](./quality-3.png) | ![](./quality-4.png) | ![](./quality-5.png) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/quality-1.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/quality-2.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/quality-3.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/quality-4.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/quality-5.png) |
 
 |                        |                        |                        |                        |                        |
 | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| ![](./weapon-bg-1.png) | ![](./weapon-bg-2.png) | ![](./weapon-bg-3.png) | ![](./weapon-bg-4.png) | ![](./weapon-bg-5.png) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/weapon-bg-1.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/weapon-bg-2.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/weapon-bg-3.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/weapon-bg-4.png) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/quality/weapon-bg-5.png) |

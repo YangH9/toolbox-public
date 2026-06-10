@@ -4,33 +4,36 @@
 
 |                           |
 | ------------------------- |
-| ![](./consumable-num.png) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/consumable-num.png) |
 
 | 经验                   |                        |                        |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![](./magicCube-1.jpg) | ![](./magicCube-2.jpg) | ![](./magicCube-3.jpg) |
-| ![](./magicCube-4.jpg) | ![](./magicCube-5.jpg) | ![](./magicCube-6.jpg) |
-| ![](./magicCube-7.jpg) | ![](./magicCube-8.jpg) |                        |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-1.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-2.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-3.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-4.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-5.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-6.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-7.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-8.jpg) |  ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-9.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-10.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-11.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/magicCube-12.jpg) |
 
 | 矿石                 |                      |                      |
 | -------------------- | -------------------- | -------------------- | -------------------- |
-| ![](./mineral-1.jpg) | ![](./mineral-2.jpg) | ![](./mineral-3.jpg) | ![](./mineral-4.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/mineral-1.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/mineral-2.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/mineral-3.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/mineral-4.jpg) |
 
 | 残骸                  |                       |                       |
 | --------------------- | --------------------- | --------------------- |
-| ![](./wreckage-1.jpg) | ![](./wreckage-2.jpg) | ![](./wreckage-3.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/wreckage-1.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/wreckage-2.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/wreckage-3.jpg) |
 
 | 其他道具            |                     |                     |                     |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-| ![](./prop-101.jpg) | ![](./prop-102.jpg) | ![](./prop-103.jpg) | ![](./prop-104.jpg) |
-| ![](./prop-105.jpg) | ![](./prop-106.jpg) | ![](./prop-107.jpg) | ![](./prop-108.jpg) |
-| ![](./prop-109.jpg) | ![](./prop-110.jpg) | ![](./prop-111.jpg) | ![](./prop-112.jpg) |
-| ![](./prop-113.jpg) | ![](./prop-114.jpg) |                     |                     |
-| ![](./prop-201.jpg) | ![](./prop-202.jpg) | ![](./prop-203.jpg) | ![](./prop-204.jpg) |
-| ![](./prop-205.jpg) | ![](./prop-206.jpg) | ![](./prop-207.jpg) | ![](./prop-208.jpg) |
-| ![](./prop-209.jpg) | ![](./prop-210.jpg) | ![](./prop-211.jpg) | ![](./prop-212.jpg) |
-| ![](./prop-213.jpg) | ![](./prop-214.jpg) | ![](./prop-215.jpg) | ![](./prop-216.jpg) |
-| ![](./prop-217.jpg) | ![](./prop-218.jpg) | ![](./prop-219.jpg) | ![](./prop-220.jpg) |
-| ![](./prop-221.jpg) | ![](./prop-222.jpg) | ![](./prop-223.jpg) | ![](./prop-224.jpg) |
-| ![](./prop-225.jpg) | ![](./prop-226.jpg) | ![](./prop-227.jpg) | ![](./prop-228.jpg) |
-| ![](./prop-229.jpg) | ![](./prop-230.jpg) | ![](./prop-231.jpg) | ![](./prop-232.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-101.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-102.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-103.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-104.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-105.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-106.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-107.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-108.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-109.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-110.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-111.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-112.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-113.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-114.jpg) |                     |                     |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-201.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-202.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-203.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-204.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-205.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-206.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-207.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-208.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-209.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-210.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-211.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-212.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-213.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-214.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-215.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-216.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-217.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-218.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-219.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-220.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-221.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-222.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-223.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-224.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-225.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-226.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-227.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-228.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-229.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-230.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-231.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-232.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-233.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-234.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-235.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-236.jpg) |
+| ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-237.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-238.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-239.jpg) | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/assets/consumable/prop-240.jpg) |
