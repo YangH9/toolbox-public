@@ -3,7 +3,7 @@
 [返回](../)
 
 |                                                                                           |                                                                                           |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/avatar/avatar-1.png)  | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/avatar/avatar-2.png)  |
 | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/avatar/avatar-3.png)  | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/avatar/avatar-4.png)  |
 | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/avatar/avatar-5.png)  | ![](https://cdn.jsdelivr.net/gh/YangH9/toolbox-public/leitingzhanji/avatar/avatar-6.png)  |
